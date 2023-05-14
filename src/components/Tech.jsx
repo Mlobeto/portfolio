@@ -2,6 +2,7 @@ import { BallCanvas } from "./Canvas";
 import { SectionWrapper } from "../hoc";
 import { technologies } from "../constants";
 
+// eslint-disable-next-line react-refresh/only-export-components
 const Tech = () => {
   return (
     <div className='flex flex-row flex-wrap justify-center gap-10'>

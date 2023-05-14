@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/no-unknown-property */
 import  { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import {
@@ -11,6 +13,7 @@ import {
 import CanvasLoader from "../Loader";
 
 const Ball = (props) => {
+  
   const [decal] = useTexture([props.imgUrl]);
 
   return (
@@ -22,7 +25,7 @@ const Ball = (props) => {
         <meshStandardMaterial
           color='#fff8eb'
           polygonOffset
-          polygonOffsetFactor={-2}
+          polygonOffsetFactor={-5}
           flatShading
         />
         <Decal
