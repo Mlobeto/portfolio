@@ -96,22 +96,12 @@ import {
       name: "Three JS",
       icon: threejs,
     },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
+   
     {
       name: "MaterialUi",
       icon: material,
-    },
-    {
-      name: "3DsMax",
-      icon: tresd,
-    },
+    }
+   
 
   ];
   
