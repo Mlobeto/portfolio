@@ -55,6 +55,8 @@ const ComputersCanvas = () => {
     };
   }, []);
 
+  if (isMobile) return null;
+
   return (
     <Canvas
       frameloop='demand'
