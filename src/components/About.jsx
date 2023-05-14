@@ -58,7 +58,7 @@ const About = () => {
       >
         I am a software developer with experience in
         JavaScript and framework experience such as React, Node.js, and
-        Three.js. I am a fast learner and work closely with clients to
+        Three.js. I am a fast learner and i work closely with clients to
         create efficient, scalable, and easy-to-use solutions that solve
         real world problems. Let's work together to bring your ideas to life!
       </motion.p>

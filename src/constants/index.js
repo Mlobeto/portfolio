@@ -167,7 +167,7 @@ import {
       source_code_link: "https://github.com/ProManitas/",
     },
     {
-      name: "Job IT",
+      name: "PI Dogs",
       description:
         "Web application that allows you to search for information about dog breeds, organize by size, weight, temperament.",
       tags: [
@@ -176,7 +176,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "NodeJs",
           color: "green-text-gradient",
         },
         {
@@ -188,7 +188,7 @@ import {
       source_code_link: "https://github.com/Mlobeto/PI-Dogs",
     },
     {
-      name: "Trip Guide",
+      name: "3D",
       description:
         "Some of my published 3D models, only objects, works in architecture belong to the studios. ",
       tags: [
